@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'FMAutolayout_Example', :exclusive => true do
+  pod 'FMAutolayout', :path => '../'
+end
+
+target 'FMAutolayout_Tests', :exclusive => true do
+  pod 'FMAutolayout', :path => '../'
+
+  
+end
