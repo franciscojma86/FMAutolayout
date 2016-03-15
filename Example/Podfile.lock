@@ -1,0 +1,14 @@
+PODS:
+  - FMAutolayout (0.1.0)
+
+DEPENDENCIES:
+  - FMAutolayout (from `../`)
+
+EXTERNAL SOURCES:
+  FMAutolayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMAutolayout: ada30c6df00e04e18edf8b7e283fc6d5c778ae3c
+
+COCOAPODS: 0.39.0

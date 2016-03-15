@@ -1,0 +1,6 @@
+framework module Pods_FMAutolayout_Example {
+  umbrella header "Pods-FMAutolayout_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
