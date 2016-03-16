@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5A1984836166892D5AD30B93A6A655C1D17FD9ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1C9677F6E83B043EE878FC4D1B9B9F3A48A18055" : 0,
+    "5A1984836166892D5AD30B93A6A655C1D17FD9ED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0B531B05-54A8-4244-907D-349758FFB475",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1C9677F6E83B043EE878FC4D1B9B9F3A48A18055" : "..\/autolayout",
+    "5A1984836166892D5AD30B93A6A655C1D17FD9ED" : "FMAutolayout\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FMAutolayout",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/FMAutolayout.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/franciscojma86\/autolayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C9677F6E83B043EE878FC4D1B9B9F3A48A18055"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/franciscojma86\/FMAutolayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A1984836166892D5AD30B93A6A655C1D17FD9ED"
+    }
+  ]
+}

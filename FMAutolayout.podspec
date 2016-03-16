@@ -9,24 +9,20 @@
 Pod::Spec.new do |s|
   s.name             = "FMAutolayout"
   s.version          = "0.1.0"
-  s.summary          = "A short description of FMAutolayout."
+s.summary          = "Create NSLayoutConstraints in code with one line of code!"
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = <<-DESC
+FMAutolayout is a category on UIView created for making Auto Layout constraints in code easily. While making constraints from IB is pretty straightforward, if you want to make any changes on the constraints, you need to make a lot of IBOutlets, and sometimes, you just need to create new constraints from code.
                        DESC
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/FMAutolayout"
+  s.homepage         = "https://github.com/franciscojma86/autolayout"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "franciscojma86" => "franciscojma86@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/FMAutolayout.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/franciscojma86/autolayout.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '8.2'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'

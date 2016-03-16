@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FMAutolayout: ada30c6df00e04e18edf8b7e283fc6d5c778ae3c
+  FMAutolayout: ee9a600db1a2adf841452478a045f9d9c0dd2e51
 
 COCOAPODS: 0.39.0
