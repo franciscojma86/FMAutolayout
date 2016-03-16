@@ -15,11 +15,11 @@ s.summary          = "Create NSLayoutConstraints in code with one line of code!"
 FMAutolayout is a category on UIView created for making Auto Layout constraints in code easily. While making constraints from IB is pretty straightforward, if you want to make any changes on the constraints, you need to make a lot of IBOutlets, and sometimes, you just need to create new constraints from code.
                        DESC
 
-  s.homepage         = "https://github.com/franciscojma86/autolayout"
+  s.homepage         = "https://github.com/franciscojma86/FMAutolayout"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "franciscojma86" => "franciscojma86@gmail.com" }
-  s.source           = { :git => "https://github.com/franciscojma86/autolayout.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/franciscojma86/FMAutolayout.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.2'
